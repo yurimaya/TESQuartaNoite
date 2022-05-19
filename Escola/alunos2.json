@@ -1,0 +1,18 @@
+[
+   
+    {
+    "nome":"Mateus",
+    "idade":8,
+    "atividade-extra": true,
+    "ativ-extra": ["Judo","Natação"],
+    "disciplina": ["Portugues","Matemática","História","Geogradia"]
+    },
+    {
+    "nome":"Paulo",
+    "idade":7,
+    "atividade-extra": false,
+    "ativ-extra": [null],
+     "disciplina": ["Portugues","Matemática","Inglês"]
+    }
+
+    ]
